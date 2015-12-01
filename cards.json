@@ -1,743 +1,227 @@
-0	Innervate	Basic
-0	Moonfire	Basic
-1	Claw	Basic
-1	Living Roots	Common
-1	Naturalize	Common
-1	Savagery	Rare
-2	Mark of the Wild	Basic
-2	Power of the Wild	Common
-2	Wild Growth	Basic
-2	Wrath	Common
-2	Anodized Robo Cub	Common
-2	Darnassus Aspirant	Rare
-2	Druid of the Saber	Common
-3	Healing Touch	Basic
-3	Mark of Nature	Common
-3	Mulch	Epic
-3	Savage Roar	Basic
-3	Druid of the Flame	Common
-3	Grove Tender	Rare
-4	Astral Communion	Epic
-4	Bite	Rare
-4	Poison Seeds	Common
-4	Soul of the Forest	Common
-4	Swipe	Basic
-4	Keeper of the Grove	Rare
-4	Savage Combatant	Rare
-4	Wildwalker	Common
-5	Nourish	Rare
-5	Starfall	Rare
-5	Druid of the Claw	Common
-5	Druid of the Fang	Common
-6	Dark Wispers	Epic
-6	Force of Nature	Epic
-6	Recycle	Rare
-6	Starfire	Basic
-6	Mech-Bear-Cat	Rare
-7	Ancient of Lore	Epic
-7	Ancient of War	Epic
-7	Knight of the Wild	Rare
-7	Malorne	Legendary
-8	Ironbark Protector	Basic
-9	Tree of Life	Epic
-9	Aviana	Legendary
-9	Cenarius	Legendary
-9	Volcanic Lumberer	Rare
-0	Hunter's Mark	Basic
-1	Arcane Shot	Basic
-1	Bestial Wrath	Epic
-1	Tracking	Basic
-1	Brave Archer	Common
-1	Timber Wolf	Basic
-1	Webspinner	Common
-2	Glaivezooka	Common
-2	Bear Trap	Common
-2	Call Pet	Rare
-2	Explosive Trap	Common
-2	Feign Death	Epic
-2	Flare	Rare
-2	Freezing Trap	Common
-2	Lock and Load	Epic
-2	Misdirection	Rare
-2	Quick Shot	Common
-2	Snake Trap	Epic
-2	Snipe	Common
-2	King's Elekk	Common
-2	Scavenging Hyena	Common
-2	Steamwheedle Sniper	Epic
-3	Eaglehorn Bow	Rare
-3	Animal Companion	Basic
-3	Deadly Shot	Common
-3	Kill Command	Basic
-3	Powershot	Rare
-3	Unleash the Hounds	Common
-3	Dreadscale	Legendary
-3	Metaltooth Leaper	Rare
-3	Stablemaster	Epic
-4	Multi-Shot	Basic
-4	Core Rager	Rare
-4	Houndmaster	Basic
-5	Cobra Shot	Common
-5	Explosive Shot	Rare
-5	King of Beasts	Rare
-5	Ram Wrangler	Rare
-5	Starving Buzzard	Basic
-5	Tundra Rhino	Basic
-6	Ball of Spiders	Rare
-6	Savannah Highmane	Rare
-7	Gladiator's Longbow	Epic
-7	Acidmaw	Legendary
-7	Gahz'rilla	Legendary
-9	King Krush	Legendary
-1	Arcane Blast	Epic
-1	Arcane Missiles	Basic
-1	Ice Lance	Common
-1	Mirror Image	Basic
-1	Mana Wyrm	Common
-2	Arcane Explosion	Basic
-2	Flamecannon	Common
-2	Frostbolt	Basic
-2	Unstable Portal	Rare
-2	Fallen Hero	Rare
-2	Snowchugger	Common
-2	Sorcerer's Apprentice	Common
-3	Arcane Intellect	Basic
-3	Counterspell	Rare
-3	Duplicate	Common
-3	Effigy	Rare
-3	Frost Nova	Basic
-3	Ice Barrier	Common
-3	Ice Block	Epic
-3	Mirror Entity	Common
-3	Polymorph: Boar	Rare
-3	Spellbender	Epic
-3	Vaporize	Rare
-3	Flamewaker	Rare
-3	Kirin Tor Mage	Rare
-3	Soot Spewer	Rare
-3	Spellslinger	Common
-4	Cone of Cold	Common
-4	Echo of Medivh	Epic
-4	Fireball	Basic
-4	Polymorph	Basic
-4	Dalaran Aspirant	Common
-4	Ethereal Arcanist	Rare
-4	Goblin Blastmage	Rare
-4	Water Elemental	Basic
-4	Wee Spellstopper	Epic
-5	Dragon's Breath	Common
-5	Flame Lance	Common
-6	Blizzard	Rare
-6	Coldarra Drake	Epic
-7	Flamestrike	Basic
-7	Archmage Antonidas	Legendary
-7	Flame Leviathan	Legendary
-8	Rhonin	Legendary
-10	Pyroblast	Epic
-1	Light's Justice	Basic
-1	Avenge	Common
-1	Blessing of Might	Basic
-1	Blessing of Wisdom	Common
-1	Competitive Spirit	Rare
-1	Eye for an Eye	Common
-1	Hand of Protection	Basic
-1	Humility	Basic
-1	Noble Sacrifice	Common
-1	Redemption	Common
-1	Repentance	Common
-2	Argent Lance	Rare
-2	Equality	Rare
-2	Holy Light	Basic
-2	Seal of Light	Common
-2	Argent Protector	Common
-2	Shielded Minibot	Common
-3	Coghammer	Epic
-3	Sword of Justice	Epic
-3	Divine Favor	Rare
-3	Muster for Battle	Rare
-3	Seal of Champions	Common
-3	Aldor Peacekeeper	Rare
-3	Scarlet Purifier	Rare
-3	Warhorse Trainer	Common
-4	Truesilver Champion	Basic
-4	Blessing of Kings	Basic
-4	Consecration	Basic
-4	Hammer of Wrath	Basic
-4	Murloc Knight	Common
-5	Blessed Champion	Rare
-5	Holy Wrath	Rare
-5	Solemn Vigil	Common
-5	Bolvar Fordragon	Legendary
-5	Cobalt Guardian	Rare
-5	Dragon Consort	Rare
-5	Quartermaster	Epic
-5	Tuskarr Jouster	Rare
-6	Avenging Wrath	Epic
-6	Enter the Coliseum	Epic
-6	Mysterious Challenger	Epic
-7	Eadric the Pure	Legendary
-7	Guardian of Kings	Basic
-8	Lay on Hands	Epic
-8	Tirion Fordring	Legendary
-0	Circle of Healing	Common
-0	Silence	Common
-1	Flash Heal	Common
-1	Holy Smite	Basic
-1	Inner Fire	Common
-1	Light of the Naaru	Rare
-1	Mind Vision	Basic
-1	Power Word: Glory	Common
-1	Power Word: Shield	Basic
-1	Northshire Cleric	Basic
-1	Shadowbomber	Epic
-1	Twilight Whelp	Common
-2	Confuse	Epic
-2	Convert	Rare
-2	Divine Spirit	Basic
-2	Mind Blast	Basic
-2	Resurrect	Rare
-2	Shadow Word: Pain	Basic
-2	Lightwell	Rare
-2	Shadowboxer	Rare
-2	Shrinkmeister	Common
-2	Wyrmrest Agent	Rare
-3	Shadow Word: Death	Basic
-3	Shadowform	Epic
-3	Thoughtsteal	Common
-3	Velen's Chosen	Common
-3	Dark Cultist	Common
-3	Shadowfiend	Epic
-4	Mass Dispel	Rare
-4	Mindgames	Epic
-4	Shadow Madness	Rare
-4	Auchenai Soulpriest	Rare
-4	Holy Champion	Common
-4	Lightspawn	Common
-4	Spawn of Shadows	Rare
-5	Holy Nova	Basic
-5	Upgraded Repair Bot	Rare
-5	Vol'jin	Legendary
-6	Holy Fire	Rare
-6	Lightbomb	Epic
-6	Cabal Shadow Priest	Epic
-6	Temple Enforcer	Common
-7	Confessor Paletress	Legendary
-7	Prophet Velen	Legendary
-10	Mind Control	Basic
-0	Backstab	Basic
-0	Preparation	Epic
-0	Shadowstep	Common
-1	Cold Blood	Common
-1	Conceal	Common
-1	Deadly Poison	Basic
-1	Sinister Strike	Basic
-1	Buccaneer	Common
-2	Betrayal	Common
-2	Blade Flurry	Rare
-2	Eviscerate	Common
-2	Gang Up	Common
-2	Sap	Basic
-2	Shiv	Basic
-2	Cutpurse	Rare
-2	Defias Ringleader	Common
-2	Goblin Auto-Barber	Common
-2	One-Eyed Cheat	Rare
-2	Patient Assassin	Epic
-2	Undercity Valiant	Common
-3	Cogmaster's Wrench	Epic
-3	Perdition's Blade	Rare
-3	Beneath the Grounds	Epic
-3	Burgle	Rare
-3	Fan of Knives	Basic
-3	Headcrack	Rare
-3	Edwin VanCleef	Legendary
-3	Iron Sensei	Rare
-3	Shady Dealer	Rare
-3	SI:7 Agent	Rare
-4	Poisoned Blade	Epic
-4	Sabotage	Epic
-4	Tinker's Sharpsword Oil	Common
-4	Anub'ar Ambusher	Common
-4	Master of Disguise	Rare
-5	Assassin's Blade	Basic
-5	Assassinate	Basic
-5	Dark Iron Skulker	Rare
-5	Ogre Ninja	Rare
-5	Shado-Pan Rider	Common
-6	Vanish	Basic
-6	Kidnapper	Epic
-6	Trade Prince Gallywix	Legendary
-7	Sprint	Basic
-9	Anub'arak	Legendary
-0	Ancestral Healing	Basic
-0	Totemic Might	Basic
-1	Earth Shock	Common
-1	Forked Lightning	Common
-1	Frost Shock	Basic
-1	Lightning Bolt	Common
-1	Rockbiter Weapon	Basic
-1	Dust Devil	Common
-2	Stormforged Axe	Common
-2	Ancestral Knowledge	Common
-2	Ancestral Spirit	Rare
-2	Crackle	Common
-2	Lava Shock	Rare
-2	Reincarnate	Common
-2	Windfury	Basic
-2	Flametongue Totem	Basic
-2	Totem Golem	Common
-2	Vitality Totem	Rare
-2	Whirling Zap-o-matic	Common
-3	Powermace	Rare
-3	Elemental Destruction	Epic
-3	Far Sight	Epic
-3	Feral Spirit	Rare
-3	Healing Wave	Rare
-3	Hex	Basic
-3	Lava Burst	Rare
-3	Lightning Storm	Rare
-3	Mana Tide Totem	Rare
-3	Tuskarr Totemic	Common
-3	Unbound Elemental	Common
-4	Charged Hammer	Epic
-4	Ancestor's Call	Epic
-4	Draenei Totemcarver	Rare
-4	Dunemaul Shaman	Rare
-4	Fireguard Destroyer	Common
-4	Siltfin Spiritwalker	Epic
-4	Windspeaker	Basic
-5	Doomhamer	Epic
-5	Bloodlust	Basic
-5	Earth Elemental	Epic
-5	Thunder Bluff Valiant	Rare
-6	Fire Elemental	Basic
-6	The Mistcaller	Legendary
-7	Neptulon	Legendary
-8	Al'Akir the Windlord	Legendary
-0	Sacrificial Pact	Basic
-1	Corruption	Basic
-1	Mortal Coil	Basic
-1	Power Overwhelming	Common
-1	Soulfire	Basic
-1	Blood Imp	Common
-1	Flame Imp	Common
-1	Voidwalker	Basic
-2	Darkbomb	Common
-2	Demonfire	Common
-2	Demonfuse	Common
-2	Mistress of Pain	Rare
-2	Succubus	Basic
-2	Tiny Knight of Evil	Rare
-2	Wrathguard	Common
-3	Demonwrath	Rare
-3	Drain Life	Basic
-3	Sense Demons	Common
-3	Shadow Bolt	Basic
-3	Felguard	Rare
-3	Imp Gang Boss	Common
-3	Void Terror	Rare
-4	Fist of Jaraxxus	Rare
-4	Hellfire	Basic
-4	Imp-losion	Rare
-4	Shadowflame	Rare
-4	Dreadsteed	Epic
-4	Fel Cannon	Rare
-4	Pit Lord	Epic
-4	Summoning Portal	Common
-4	Voidcaller	Common
-5	Bane of Doom	Epic
-5	Demonheart	Epic
-5	Doomguard	Rare
-5	Floating Watcher	Common
-6	Dark Bargain	Epic
-6	Siphon Soul	Rare
-6	Anima Golem	Epic
-6	Dread Infernal	Basic
-6	Void Crusher	Rare
-6	Wildfred Fizzlebang	Legendary
-7	Fearsome Doomguard	Common
-8	Twisting Nether	Epic
-9	Lord Jaraxxus	Legendary
-9	Mal'Ganis	Legendary
-0	Inner Rage	Common
-1	Execute	Basic
-1	Shield Slam	Epic
-1	Upgrade!	Rare
-1	Whirlwind	Basic
-1	Warbot	Common
-2	Fiery War Axe	Basic
-2	Battle Rage	Common
-2	Bolster	Common
-2	Cleave	Basic
-2	Commanding Shout	Rare
-2	Heroic Strike	Basic
-2	Rampage	Common
-2	Revenge	Rare
-2	Slam	Common
-2	Alexstrasza's Champion	Rare
-2	Armorsmith	Rare
-2	Cruel Taskmaster	Common
-2	Sparring Partner	Rare
-3	King's Defender	Rare
-3	Ogre Warmaul	Common
-3	Bash	Common
-3	Bouncing Blade	Epic
-3	Charge	Basic
-3	Shield Block	Basic
-3	Frothing Berserker	Rare
-3	Orgrimmar Aspirant	Common
-3	Warsong Commander	Basic
-4	Death's Bite	Common
-4	Mortal Strike	Rare
-4	Arathi Weaponsmith	Common
-4	Axe Flinger	Common
-4	Kor'kron Elite	Basic
-4	Magnataur Alpha	Epic
-4	Screwjank Clunker	Rare
-5	Arcanite Reaper	Basic
-5	Brawl	Epic
-5	Siege Engine	Rare
-6	Iron Juggernaut	Legendary
-6	Sea Reaver	Epic
-6	Shieldmaiden	Rare
-7	Gorehowl	Epic
-7	Crush	Epic
-8	Grommash Hellscream	Legendary
-10	Varian Wrynn	Legendary
-0	Target Dummy	Rare
-0	Wisp	Common
-1	Abusive Sergeant	Common
-1	Angry Chicken	Rare
-1	Argent Squire	Common
-1	Bloodsail Corsair	Rare
-1	Clockwork Gnome	Common
-1	Cogmaster	Common
-1	Dragon Egg	Rare
-1	Elven Archer	Basic
-1	Gadgetzan Jouster	Common
-1	Goldshire Footman	Basic
-1	Grimscale Oracle	Basic
-1	Hungry Crab	Epic
-1	Injured Kvaldir	Rare
-1	Leper Gnome	Common
-1	Lightwarden	Rare
-1	Lowly Squire	Common
-1	Murloc Raider	Basic
-1	Murloc Tidecaller	Rare
-1	Secretkeeper	Rare
-1	Shieldbearer	Common
-1	Southsea Deckhand	Common
-1	Stonetusk Boar	Basic
-1	Tournament Attendee	Common
-1	Undertaker	Common
-1	Voodoo Doctor	Basic
-1	Worgen Infiltrator	Common
-1	Young Dragonhawk	Common
-1	Young Priestess	Rare
-1	Zombie Chow	Common
-2	Acidic Swamp Ooze	Basic
-2	Amani Berserker	Common
-2	Ancient Watcher	Rare
-2	Annoy-o-Tron	Common
-2	Argent Watchman	Rare
-2	Bloodfen Raptor	Basic
-2	Bloodmage Thalnos	Legendary
-2	Bloodsail Raider	Common
-2	Bluegill Warrior	Basic
-2	Boneguard Lieutenant	Common
-2	Captain's Parrot	Epic
-2	Crazed Alchemist	Rare
-2	Dire Wolf Alpha	Common
-2	Doomsayer	Epic
-2	Echoing Ooze	Epic
-2	Explosive Sheep	Common
-2	Faerie Dragon	Common
-2	Flame Juggler	Common
-2	Frostwolf Grunt	Basic
-2	Garrison Commander	Epic
-2	Gilblin Stalker	Common
-2	Haunted Creeper	Common
-2	Ironbeak Owl	Common
-2	Knife Juggler	Rare
-2	Kobold Geomancer	Basic
-2	Lance Carrier	Common
-2	Loot Hoarder	Common
-2	Lorewalker Cho	Legendary
-2	Mad Bomber	Common
-2	Mad Scientist	Common
-2	Mana Addict	Rare
-2	Mana Wraith	Rare
-2	Master Swordsmith	Rare
-2	Mechwarper	Common
-2	Micro Machine	Common
-2	Millhouse Manastorm	Legendary
-2	Murloc Tidehunter	Basic
-2	Nat Pagle	Legendary
-2	Nerub'ar Weblord	Common
-2	Nerubian Egg	Rare
-2	Novice Engineer	Basic
-2	Pint-Sized Summoner	Rare
-2	Puddlestomper	Common
-2	Recombobulator	Epic
-2	River Crocolisk	Basic
-2	Ship's Cannon	Common
-2	Stonesplinter Trogg	Common
-2	Sunfury Protector	Rare
-2	Unstable Ghoul	Common
-2	Wild Pyromancer	Rare
-2	Youthful Brewmaster	Common
-3	Acolyte of Pain	Common
-3	Alarm-o-Bot	Rare
-3	Arcane Golem	Rare
-3	Argent Horserider	Common
-3	Big Game Hunter	Epic
-3	Blackwing Technician	Common
-3	Blood Knight	Epic
-3	Coldlight Oracle	Rare
-3	Coldlight Seer	Rare
-3	Coliseum Manager	Rare
-3	Dalaran Mage	Basic
-3	Dancing Swords	Common
-3	Deathlord	Rare
-3	Demolisher	Rare
-3	Dragonhawk Rider	Common
-3	Earthen Ring Farseer	Common
-3	Emperor Cobra	Rare
-3	Eydis Darkbane	Legendary
-3	Fencing Coach	Rare
-3	Fjola Lightbane	Legendary
-3	Flesheating Ghoul	Common
-3	Flying Machine	Common
-3	Gnomeregan Infantry	Common
-3	Gnomish Experimenter	Rare
-3	Goblin Sapper	Rare
-3	Harvest Golem	Common
-3	Hobgoblin	Epic
-3	Ice Rager	Common
-3	Illuminator	Rare
-3	Imp Master	Rare
-3	Injured Blademaster	Rare
-3	Ironforge Rifleman	Basic
-3	Ironfur Grizzly	Basic
-3	Jungle Panther	Common
-3	King Mukla	Legendary
-3	Light's Champion	Rare
-3	Lil' Exorcist	Rare
-3	Magma Rager	Basic
-3	Master of Ceremonies	Epic
-3	Mind Control Tech	Rare
-3	Murloc Warleader	Epic
-3	Ogre Brute	Common
-3	Questing Adventurer	Rare
-3	Raging Worgen	Common
-3	Raid Leader	Basic
-3	Razorfen Hunter	Basic
-3	Saboteur	Rare
-3	Scarlet Crusader	Common
-3	Shade of Naxxramas	Epic
-3	Shattered Sun Cleric	Basic
-3	Silent Knight	Common
-3	Silver Hand Regent	Common
-3	Silverback Patriarch	Basic
-3	Southsea Captain	Epic
-3	Spider Tank	Common
-3	Stoneskin Gargoyle	Common
-3	Tauren Warrior	Common
-3	Thrallmar Farseer	Common
-3	Tinkertown Technician	Common
-3	Tinkmaster Overspark	Legendary
-3	Wolfrider	Basic
-4	Ancient Brewmaster	Common
-4	Ancient Mage	Rare
-4	Arcane Nullifier X-21	Rare
-4	Armored Warhorse	Rare
-4	Baron Rivendare	Legendary
-4	Burly Rockjaw Trogg	Common
-4	Chillwind Yeti	Basic
-4	Crowd Favorite	Epic
-4	Cult Master	Common
-4	Dark Iron Dwarf	Common
-4	Defender of Argus	Rare
-4	Dragonkin Sorcerer	Common
-4	Dragonling Mechanic	Basic
-4	Dread Corsair	Common
-4	Enhance-o Mechano	Epic
-4	Evil Heckler	Common
-4	Frigid Snobold	Common
-4	Gnomish Inventor	Basic
-4	Gormok the Impaler	Legendary
-4	Hungry Dragon	Common
-4	Jeeves	Rare
-4	Kezan Mystic	Rare
-4	Lost Tallstrider	Common
-4	Maiden of the Lake	Common
-4	Mechanical Yeti	Common
-4	Mini-Mage	Epic
-4	Mogu'shan Warden	Common
-4	Oasis Snapjaw	Basic
-4	Ogre Magi	Basic
-4	Old Murk-Eye	Legendary
-4	Piloted Shredder	Common
-4	Refreshment Vendor	Common
-4	Sen'jin Shieldmasta	Basic
-4	Silvermoon Guardian	Common
-4	Spellbreaker	Common
-4	Stormwind Knight	Basic
-4	Tournament Medic	Common
-4	Twilight Drake	Rare
-4	Twilight Guardian	Epic
-4	Violet Teacher	Rare
-4	Wailing Soul	Rare
-5	Abomination	Rare
-5	Antique Healbot	Common
-5	Azure Drake	Rare
-5	Blackwing Corruptor	Common
-5	Blingtron 3000	Legendary
-5	Bomb Lobber	Rare
-5	Booty Bay Bodyguard	Basic
-5	Captain Greenskin	Legendary
-5	Clockwork Knight	Common
-5	Darkscale Healer	Basic
-5	Elite Tauren Chieftan	Legendary
-5	Faceless Manipulator	Epic
-5	Fel Reaver	Epic
-5	Fen Creeper	Common
-5	Feugen	Legendary
-5	Frostwolf Warlord	Basic
-5	Grim Patron	Rare
-5	Gurubashi Berserker	Basic
-5	Harrison Jones	Legendary
-5	Hemet Nesingwary	Legendary
-5	Junkbot	Epic
-5	Kvaldir Raider	Common
-5	Leeroy Jenkins	Legendary
-5	Loatheb	Legendary
-5	Madder Bomber	Rare
-5	Mimiron's Head	Legendary
-5	Mukla's Champion	Common
-5	Nexus-Champion Saraad	Legendary
-5	Nightblade	Basic
-5	Pit Fighter	Common
-5	Recruiter	Epic
-5	Salty Dog	Common
-5	Silver Hand Knight	Common
-5	Sludge Belcher	Rare
-5	Spectral Knight	Common
-5	Spiteful Smith	Common
-5	Stalagg	Legendary
-5	Stampeding Kodo	Rare
-5	Stormpike Commando	Basic
-5	Stranglethorn Tiger	Common
-5	Venture Co. Mercenary	Common
-6	Archmage	Basic
-6	Argent Commander	Rare
-6	Bolf Ramshield	Legendary
-6	Boulderfist Ogre	Basic
-6	Cairne Bloodhoof	Legendary
-6	Drakonid Crusher	Common
-6	Emperor Thaurissan	Legendary
-6	Frost Elemental	Common
-6	Gadgetzan Auctioneer	Rare
-6	Gazlowe	Legendary
-6	Gelbin Mekkatorque	Legendary
-6	Grand Crusader	Epic
-6	Hogger	Legendary
-6	Illidan Stormrage	Legendary
-6	Justicar Trueheart	Legendary
-6	Kodorider	Epic
-6	Lord of the Arena	Basic
-6	Maexxna	Legendary
-6	Master Jouster	Rare
-6	Mogor the Ogre	Legendary
-6	Mogor's Champion	Rare
-6	Piloted Sky Golem	Epic
-6	Priestess of Elune	Common
-6	Reckless Rocketeer	Basic
-6	Sideshow Spelleater	Epic
-6	Sunwalker	Rare
-6	Sylvanas Windrunner	Legendary
-6	The Beast	Legendary
-6	The Black Knight	Legendary
-6	The Skeleton King	Legendary
-6	Toshley	Legendary
-6	Volcanic Drake	Common
-6	Windfury Harpy	Common
-7	Baron Geddon	Legendary
-7	Captured Jormungar	Common
-7	Chillmaw	Legendary
-7	Core Hound	Basic
-7	Dr. Boom	Legendary
-7	Ravenholdt Assassin	Rare
-7	Rend Blackhand	Legendary
-7	Skycap'n Kragg	Legendary
-7	Stormwind Champion	Basic
-7	Troggzor the Earthinator	Legendary
-7	War Golem	Basic
-8	Chromaggus	Legendary
-8	Foe Reaper 4000	Legendary
-8	Force-Tank MAX	Common
-8	Gruul	Legendary
-8	Kel'Thuzad	Legendary
-8	Ragnaros the Firelord	Legendary
-8	Sneed's Old Shredder	Legendary
-9	Alexstrasza	Legendary
-9	Icehowl	Legendary
-9	Majordomo Executus	Legendary
-9	Malygos	Legendary
-9	Mekgineer Thermaplugg	Legendary
-9	Nefarian	Legendary
-9	North Sea Kraken	Common
-9	Nozdormu	Legendary
-9	Onyxia	Legendary
-9	Ysera	Legendary
-10	Deathwing	Legendary
-10	Frost Giant	Epic
-10	Sea Giant	Epic
-12	Clockwork Giant	Epic
-12	Mountain Giant	Epic
-20	Molten Giant	Epic
-0	Murloc Tinyfin	Common
-1	Pit Snake	Common
-1	Raven Idol	Common
-1	Sacred Trial	Common
-1	Tunnel Trogg	Common
-2	Curse of Rafaam	Common
-2	Dark Peddler	Common
-2	Dart Trape	Common
-2	Huge Toad	Common
-2	Jeweled Scarab	Common
-2	Museum Curator	Common
-3	Desert Camel	Common
-3	Fierce Monkey	Common
-3	Forgotten Torch	Common
-3	Mounted Raptor	Common
-4	Gorillabot A-3	Common
-4	Keeper of Uldaman	Common
-4	Rumbling Elemental	Common
-4	Tomb Pillager	Common
-4	Tomb Spider	Common
-5	Anubisath Sentinel	Common
-5	Ethereal Conjurer	Common
-6	Entomb	Common
-7	Obsidian Destroyer	Common
-8	Fossilized Devilsaur	Common
-1	Cursed Blade	Rare
-1	Reliquary Seeker	Rare
-2	Explorer's Hat	Rare
-3	Unearthed Raptor	Rare
-4	Ancient Shade	Rare
-4	Animated Armor	Rare
-4	Eerie Statue	Rare
-4	Jungle Moonkin	Rare
-5	Excavated Evil	Rare
-5	Summoning Stone	Rare
-6	Wobbling Runts	Rare
-7	Everyfin is Awesome	Rare
-10	Anyfin Can Happen	Rare
-5	Djinni of Zephyrs	Epic
-5	Naga Sea Witch	Epic
-1	Sir Finley Mrrgglton	Legendary
-3	Brann Bronzebeard	Legendary
-4	Elise Starseeker	Legendary
-6	Reno Jackson	Legendary
-9	Arch-Thief Rafaam	Legendary
+[
+	{
+		"mana": 0,
+		"name": "Innervate",
+		"quality": "Basic"
+	},
+	{
+		"mana": 0,
+		"name": "Moonfire",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Claw",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Living Roots",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Naturalize",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Savagery",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Mark of the Wild",
+		"quality": "Basic"
+	},
+	{
+		"mana": 2,
+		"name": "Power of the Wild",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Wild Growth",
+		"quality": "Basic"
+	},
+	{
+		"mana": 2,
+		"name": "Wrath",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Anodized Robo Cub",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Darnasses Aspirant",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Druid of the Saber",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Healing Touch",
+		"quality": "Basic"
+	},
+	{
+		"mana": 3,
+		"name": "Markf of the Nature",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Mulch",
+		"quality": "Epic"
+	},
+	{
+		"mana": 3,
+		"name": "Savage Roar",
+		"quality": "Basic"
+	},
+	{
+		"mana": 3,
+		"name": "Druid of the Flame",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Grove Tender",
+		"quality": "Rare"
+	},
+	{
+		"mana": 4,
+		"name": "Astral Communion",
+		"quality": "Epic"
+	},
+	{
+		"mana": 4,
+		"name": "Bite",
+		"quality": "Rare"
+	},
+	{
+		"mana": 4,
+		"name": "Poison Seeds",
+		"quality": "Common"
+	},
+	{
+		"mana": 4,
+		"name": "Soul of the Forest",
+		"quality": "Common"
+	},
+	{
+		"mana": 4,
+		"name": "Swipe",
+		"quality": "Basic"
+	},
+	{
+		"mana": 4,
+		"name": "Keeper of the Grove",
+		"quality": "Rare"
+	},
+	{
+		"mana": 4,
+		"name": "Savage Combatant",
+		"quality": "Rare"
+	},
+	{
+		"mana": 4,
+		"name": "Wildwalker",
+		"quality": "Common"
+	},
+	{
+		"mana": 5,
+		"name": "Nourish",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "Starfall",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "Druid of the Claw",
+		"quality": "Common"
+	},
+	{
+		"mana": 5,
+		"name": "Druid of the Fang",
+		"quality": "Common"
+	},
+	{
+		"mana": 6,
+		"name": "Dark Wispers",
+		"quality": "Epic"
+	},
+	{
+		"mana": 6,
+		"name": "Force of Nature",
+		"quality": "Epic"
+	},
+	{
+		"mana": 6,
+		"name": "Recycle",
+		"quality": "Rare"
+	},
+	{
+		"mana": 6,
+		"name": "Starfire",
+		"quality": "basic"
+	},
+	{
+		"mana": 6,
+		"name": "Mech-Bear-Cat",
+		"quality": "Rare"
+	},
+	{
+		"mana": 7,
+		"name": "Ancient of Lore",
+		"quality": "Epic"
+	},
+	{
+		"mana": 7,
+		"name": "Ancient of War",
+		"quality": "Epic"
+	},
+	{
+		"mana": 7,
+		"name": "Knight of the Wild",
+		"quality": "Rare"
+	},
+	{
+		"mana": 7,
+		"name": "Malorne",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 8,
+		"name": "Ironbark Protector",
+		"quality": "Basic"
+	},
+	{
+		"mana": 9,
+		"name": "Tree of Life",
+		"quality": "Epic"
+	},
+	{
+		"mana": 9,
+		"name": "Aviana",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 9,
+		"name": "Cenarius",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 9,
+		"name": "Volcanic Lumberer",
+		"quality": "Rare"
+	}
+]
