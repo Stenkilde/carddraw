@@ -223,5 +223,503 @@
 		"mana": 9,
 		"name": "Volcanic Lumberer",
 		"quality": "Rare"
+	},
+
+
+
+	{
+		"mana": 1,
+		"name": "Redemption",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Repentance",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Argent Lance",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Equality",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Holy Light",
+		"quality": "Basic"
+	},
+	{
+		"mana": 2,
+		"name": "Seal of Light",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Argent Protector",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Shielded Minibot",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Coghammer",
+		"quality": "Epic"
+	},
+	{
+		"mana": 3,
+		"name": "Sword of Justice",
+		"quality": "Epic"
+	},
+	{
+		"mana": 3,
+		"name": "Divine Favor",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Muster for Battle",
+		"quality":  "Rare"
+	},
+	{
+		"mana": 3,
+		"name": ,"Seal of Champions"
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Aldor Peacekeeper",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Scarlet Purifier",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Warhorse Trainer",
+		"quality": "Common"
+	},
+	{
+		"mana": 4,
+		"name": "Truesilver Champion",
+		"quality": "Basic"
+	},
+	{
+		"mana": 4,
+		"name": "Blessing of Kings",
+		"quality": "Basic"
+	},
+	{
+		"mana": 4,
+		"name": "Consecration",
+		"quality": "Basic"
+	},
+	{
+		"mana": 4,
+		"name": "Hammer of Wrath",
+		"quality": "Basic"
+	},
+	{
+		"mana": 4,
+		"name": "Murloc Knight",
+		"quality": "Common"
+	}
+	{
+		"mana": 5,
+		"name": "Blessed Champion",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "Holy Wrath",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "Solemn Vigil",
+		"quality": "Common"
+	},
+	{
+		"mana": 5,
+		"name": "Bolvar Fordragon",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 5,
+		"name": "Cobalt Guardian",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "Dragon Consort",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "Quartermaster",
+		"quality": "Epic"
+	},
+	{
+		"mana": 5,
+		"name": "Tuskar Jouster",
+		"quality": "Rare"
+	},
+	{
+		"mana": 6,
+		"name": "Avenging Wrath",
+		"quality": "Epic"
+	},
+	{
+		"mana": 6,
+		"name": "Enter the Coliseum",
+		"quality": "Epic"
+	},
+	{
+		"mana": 6,
+		"name": "Mysterious CHallenger",
+		"quality": "Epic"
+	},
+	{
+		"mana": 7,
+		"name": "Eadric the Pure",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 7,
+		"name": "Guardian of Kings",
+		"quality": "Basic"
+	},
+	{
+		"mana": 8,
+		"name": "Lay of Hands",
+		"quality": "Epic"
+	},
+	{
+		"mana": 8,
+		"name": "Tirion Fordring",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 0,
+		"name": "Circle of Healing",
+		"quality": "Common"
+	},
+	{
+		"mana": 0,
+		"name": "Silence",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Flash Heal",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Holy Smite",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Inner Fire",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Light of the Naaru",
+		"quality": "Rare"
+	},
+	{
+		"mana": 1,
+		"name": "Mind Vision",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Power Word: Glory",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Power Word: Shield",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Northshire Cleric",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Shadowbomer",
+		"quality": "Epic"
+	},
+	{
+		"mana": 1,
+		"name": "Twilight Whelp",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Confuse",
+		"quality": "Epic"
+	},
+	{
+		"mana": 2,
+		"name": "Convert",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Divine Spirit",
+		"quality": "Basci"
+	},
+	{
+		"mana": 2,
+		"name": "Mind Blast",
+		"quality": "Basic"
+	},
+	{
+		"mana": 2,
+		"name": "Resurrect",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Shadow Word: Pain",
+		"quality": "Basic"
+	},
+	{
+		"mana": 2,
+		"name": "Lightwell",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Shadowboxer",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Shrinkmeister",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Wyrmrest Agent",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Shadow Word: Death",
+		"quality": "Basic"
+	},
+	{
+		"mana": 3,
+		"name": "Shadowform",
+		"quality": "Epic"
+	},
+	{
+		"mana": 3,
+		"name": "Thoughtsteal",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Velen's Chosen ",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Dark Cultist",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Shadowfiend",
+		"quality": "Epic"
+	},
+	{
+		"mana": 4,
+		"name": "Mass Dispel",
+		"quality": "Rare"
+	},
+	{
+		"mana": 4,
+		"name": "Mindgames",
+		"quality": "Epic"
+	},
+	{
+		"mana": 4,
+		"name": "Shadow Madness",
+		"quality": "Rare"
+	},
+	{
+		"mana": 4,
+		"name": "Auchenai Soulpriest",
+		"quality": "Rare"
+	},
+	{
+		"mana": 4,
+		"name": "Holy Champion",
+		"quality": "Common"
+	},
+	{
+		"mana": 4,
+		"name": "Lightspawn",
+		"quality": "Common"
+	},
+	{
+		"mana": 4,
+		"name": "Spawn of Shadows",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "Holy Nova",
+		"quality": "Basic"
+	},
+	{
+		"mana": 5,
+		"name": "Upgraded Repair Bot",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "Vol'jin",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 6,
+		"name": "Holy Fire",
+		"quality": "Rare"
+	},
+	{
+		"mana": 6,
+		"name": "Lightbomb",
+		"quality": "Epic"
+	},
+	{
+		"mana": 6,
+		"name": "Cabal Shadow Priest",
+		"quality": "Epic"
+	},
+	{
+		"mana": 6,
+		"name": "Temple Enforcer",
+		"quality": "Common"
+	},
+	{
+		"mana": 7,
+		"name": "Confessor Paletress",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 7,
+		"name": "Prophet Velen",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 10,
+		"name": "Mind Control",
+		"quality": "Basic"
+	},
+	{
+		"mana": 0,
+		"name": "Backstab",
+		"quality": "Basic"
+	},
+	{
+		"mana": 0,
+		"name": "Preparation",
+		"quality": "Epic"
+	},
+	{
+		"mana": 0,
+		"name": "Shadowstep",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Cold Blood",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Conceal",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Deadly Poison",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Sinister Strike",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Buccaneer",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Betrayal",
+		"quality": "Common" 
+	},
+	{
+		"mana": 2,
+		"name": "Blade Flurry",
+		"quality": "Rare" 
+	},
+	{
+		"mana": 2,
+		"name": "Eviscerate",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Gang Up",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Sap",
+		"quality": "Basic" 
+	},
+	{
+		"mana": 2,
+		"name": "Shiv",
+		"quality": "Basic"
+	},
+	{
+		"mana": 2,
+		"name": "Cutpurse",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Defias Ringleader",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Goblin Auto-Barber",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "One-Eyed Cheat",
+		"quality": "Rare"
 	}
 ]
