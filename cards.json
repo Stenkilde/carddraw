@@ -224,9 +224,506 @@
 		"name": "Volcanic Lumberer",
 		"quality": "Rare"
 	},
-
-
-
+	{
+		"mana": 0,
+		"name": "Hunter's Mark",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Arcane Shot",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Bestial Wrath",
+		"quality": "Epic"
+	},
+	{
+		"mana": 1,
+		"name": "Tracking",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Brave Archer",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Timber Wolf",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Webspinner",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Glaivezooka",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Bear Trap",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Call Pet",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Explosive Trap",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Feign Death",
+		"quality": "Epic"
+	},
+	{
+		"mana": 2,
+		"name": "Flare",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Freezing Trap",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Lock and Load",
+		"quality": "Epic"
+	},
+	{
+		"mana": 2,
+		"name": "Misdirection",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Quick Shot",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Snake Trap",
+		"quality": "Epic"
+	},
+	{
+		"mana": 2,
+		"name": "Snipe",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "King´s Elekk",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Scavenging Hyena",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Steamwheedle Sniper",
+		"quality": "Epic"
+	},
+	{
+		"mana": 3,
+		"name": "Eaglehorn Bow",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Animal Companion",
+		"quality": "Basic"
+	},
+	{
+		"mana": 3,
+		"name": "Deadly Shot",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Kill Command",
+		"quality": "Basic"
+	},
+	{
+		"mana": 3,
+		"name": "Powershot",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Unleash the Hounds",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Dreadscale",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 3,
+		"name": "Metaltooth Leaper",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Stablemaster",
+		"quality": "Epic"
+	},
+	{
+		"mana": 4,
+		"name": "Multi-Shot",
+		"quality": "Basic"
+	},
+	{
+		"mana": 4,
+		"name": "Core Rager",
+		"quality": "Rare"
+	},
+	{
+		"mana": 4,
+		"name": "Houndmaster",
+		"quality": "Basic"
+	},
+	{
+		"mana": 5,
+		"name": "Cobra Shot",
+		"quality": "Common"
+	},
+	{
+		"mana": 5,
+		"name": "Explosive Shot",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "King of Beasts",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "Ram Wrangler",
+		"quality": "Rare"
+	},
+	{
+		"mana": 5,
+		"name": "Starving Buzzard",
+		"quality": "Basic"
+	},
+	{
+		"mana": 5,
+		"name": "Tundra Rhino",
+		"quality": "Basic"
+	},
+	{
+		"mana": 6,
+		"name": "Ball of Spiders",
+		"quality": "Rare"
+	},
+	{
+		"mana": 6,
+		"name": "Savannah Highmane",
+		"quality": "Rare"
+	},
+	{
+		"mana": 7,
+		"name": "Gladiator's Longbow",
+		"quality": "Epic"
+	},
+	{
+		"mana": 7,
+		"name": "Acidmaw",
+		"quality": "Legandary"
+	},
+	{
+		"mana": 7,
+		"name": "Gahz'rilla",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 9,
+		"name": "King Krush",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 1,
+		"name": "Arcane Blast",
+		"quality": "Epic"
+	},
+	{
+		"mana": 1,
+		"name": "Arcane Missiles",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Ice Lance",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Mirror Image",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Mana Wyrm",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Arcane Explosion",
+		"quality": "Basic"
+	},
+	{
+		"mana": 2,
+		"name": "Flamecannon",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Frostbolt",
+		"quality": "Basic"
+	},
+	{
+		"mana": 2,
+		"name": "Unstable Portal",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Fallen Hero",
+		"quality": "Rare"
+	},
+	{
+		"mana": 2,
+		"name": "Snowchugger",
+		"quality": "Common"
+	},
+	{
+		"mana": 2,
+		"name": "Sorcerer's Apprentice",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Arcane Intellect",
+		"quality": "Basic"
+	},
+	{
+		"mana": 3,
+		"name": "Counterspell",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Duplicate",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Effigy",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Frost Nova",
+		"quality": "Basic"
+	},
+	{
+		"mana": 3,
+		"name": "Ice Barrier",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Ice Block",
+		"quality": "Epic"
+	},
+	{
+		"mana": 3,
+		"name": "Mirror Entity",
+		"quality": "Common"
+	},
+	{
+		"mana": 3,
+		"name": "Polymorph: Boar",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Spellbender",
+		"quality": "Epic"
+	},
+	{
+		"mana": 3,
+		"name": "Vaporize",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Flamewaker",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Kirin Tor Mage",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Soot Spewer",
+		"quality": "Rare"
+	},
+	{
+		"mana": 3,
+		"name": "Spellslinger",
+		"quality": "Common"
+	},
+	{
+		"mana": 4,
+		"name": "Cone of Cold",
+		"quality": "Common"
+	},
+	{
+		"mana": 4,
+		"name": "Echo of Medivh",
+		"quality": "Epic"
+	},
+	{
+		"mana": 4,
+		"name": "Fireball",
+		"quality": "Basic"
+	},
+	{
+		"mana": 4,
+		"name": "Polymorph",
+		"quality": "Basic"
+	},
+	{
+		"mana": 4,
+		"name": "Dalaran Aspirant",
+		"quality": "Common"
+	},
+	{
+		"mana": 4,
+		"name": "Ethereal Arcanist",
+		"quality": "Rare"
+	},
+	{
+		"mana": 4,
+		"name": "Goblin Blastmage",
+		"quality": "Rare"
+	},
+	{
+		"mana": 4,
+		"name": "Water Elemental",
+		"quality": "Basic"
+	},
+	{
+		"mana": 4,
+		"name": "Wee Spellstopper",
+		"quality": "Epic"
+	},
+	{
+		"mana": 5,
+		"name": "Dragon's Breath",
+		"quality": "Common"
+	},
+	{
+		"mana": 5,
+		"name": "Flame Lance",
+		"quality": "Common"
+	},
+	{
+		"mana": 6,
+		"name": "Blizzard",
+		"quality": "Rare"
+	},
+	{
+		"mana": 6,
+		"name": "Coldarra Drake",
+		"quality": "Epic"
+	},
+	{
+		"mana": 7,
+		"name": "Flamestrike",
+		"quality": "Basic"
+	},
+	{
+		"mana": 7,
+		"name": "Archmage Antonidas",
+		"quality": "Legandary"
+	},
+	{
+		"mana": 7,
+		"name": "Flame Leviathan",
+		"quality": "Legandary"
+	},
+	{
+		"mana": 8,
+		"name": "Rhonin",
+		"quality": "Legendary"
+	},
+	{
+		"mana": 10,
+		"name": "Pyroblast",
+		"quality": "Epic"
+	},
+	{
+		"mana": 1,
+		"name": "Light's Justice",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Avenge",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Blessing of Might",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Blessing of Wisdom",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Competitive Spirit",
+		"quality": "Rare"
+	},
+	{
+		"mana": 1,
+		"name": "Eye for an Eye",
+		"quality": "Common"
+	},
+	{
+		"mana": 1,
+		"name": "Hand of Protection",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Humility",
+		"quality": "Basic"
+	},
+	{
+		"mana": 1,
+		"name": "Noble Sacrifice",
+		"quality": "Common"
+	},
 	{
 		"mana": 1,
 		"name": "Redemption",
