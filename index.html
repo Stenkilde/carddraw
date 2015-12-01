@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Lawl</title>
+</head>
+<body>
+	<div id="app">
+		<ul>
+			<li>{{randomArrayItem.mana | json}} - {{randomArrayItem.name | json}} - {{randomArrayItem.quality | json}} </li>
+		</ul>
+
+		<button v-on:click="drawCard">PICK A CARD</button>
+	</div>
+	<script src="bower_components/vue/dist/vue.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>	

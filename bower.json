@@ -1,0 +1,10 @@
+{
+  "name": "hearthstonecard",
+  "description": "Elegiggle",
+  "authors": [
+    "Oliver Stenkilde"
+  ],
+  "dependencies": {
+    "vue": "~1.0.10"
+  }
+}
