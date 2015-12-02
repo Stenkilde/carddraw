@@ -6,9 +6,10 @@
 </head>
 <body>
 	<div id="app">
-		<ul>
-			<li>{{randomArrayItem.mana | json}} - {{randomArrayItem.name | json}} - {{randomArrayItem.quality | json}} </li>
-		</ul>
+		<div class="card">
+			<div class="card__front">{{randomArrayItem.mana | json}} - {{randomArrayItem.name | json}} - {{randomArrayItem.quality | json}}</div>
+			<div class="card__back"></div>
+		</div>
 
 		<button v-on:click="drawCard">PICK A CARD</button>
 	</div>
