@@ -6,14 +6,15 @@ gulp.task('serve', function() {
   connect.server();
 });
 
-gulp.task('sass', function () {
-  gulp.src('./styles/**/*.scss')
-    .pipe(sass().on('error', sass.logError))
-    .pipe(gulp.dest('./styles'));
-});
- 
-gulp.task('watch', function () {
-  gulp.watch('./sass/**/*.scss', ['sass']);
+gulp.task('styles', function() {
+    gulp.src('styles/**/*.scss')
+        .pipe(sass().on('error', sass.logError))
+        .pipe(gulp.dest('./styles/'));
 });
 
-gulp.task('default', ['serve']);
+
+
+gulp.task('default',function() {
+    gulp.watch('styles/**/*.scss',['styles']);
+    connect.server();
+});
